@@ -902,7 +902,7 @@ color: 	#666;
 .i-honor{
 	width: 312px;
 	margin-bottom: 22px;
-	filter:alpha(opacity=0);
+	/*filter:alpha(opacity=0);*/
 	opacity: 0;
 }
 /*.i-honor .list{
